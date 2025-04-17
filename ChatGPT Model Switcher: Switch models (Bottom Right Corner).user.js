@@ -12,7 +12,11 @@
 // @grant        GM.getValue
 // @grant        GM.xmlHttpRequest
 // @connect      api.github.com
+// @connect      github.com
+// @connect      objects.githubusercontent.com
 // @run-at       document-idle
+// @downloadURL  https://github.com/ALEXjma/ChatGPT-Model-Switcher-Vibe-Code/raw/refs/heads/main/ChatGPT%20Model%20Switcher:%20Switch%20models%20(Bottom%20Right%20Corner).user.js
+// @updateURL    https://github.com/ALEXjma/ChatGPT-Model-Switcher-Vibe-Code/raw/refs/heads/main/ChatGPT%20Model%20Switcher:%20Switch%20models%20(Bottom%20Right%20Corner).user.js
 // ==/UserScript==
 
 (async function() {
